@@ -23,7 +23,7 @@ libboost-python-dev libboost-filesystem-dev zlib1g-dev
 make
 sudo make install
 ```
-📷 [Installation Verification:](https://github.com/sridevibuilds/ChipVSD/Week0/assests/yosysinstallation.jpg)
+📷 [Installation Verification:](https://github.com/sridevibuilds/ChipVSD/Week0/assests/yosysinstallation)
 ✅ Yosys Successfully Installed
 
 ### 📟 2. Iverilog – Verilog Simulator
