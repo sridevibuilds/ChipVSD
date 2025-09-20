@@ -69,8 +69,9 @@ This week focuses on preparing the development environment with essential **open
 ---
 
 ## 🙏 Acknowledgment
-I am thankful to **Kunal Ghosh** and **Team VLSI System Design (VSD)** for the opportunity to participate in the ongoing RISC-V SoC Tapeout Program.
+🏆 Program Leadership & Support
 
+I am thankful to Kunal Ghosh and Team VLSI System Design (VSD) for the opportunity to participate in the ongoing RISC-V SoC Tapeout Program.
 ---
 
 ## 📈 Weekly Progress Tracker
