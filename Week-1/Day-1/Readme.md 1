@@ -1,5 +1,0 @@
-# 📅 Day 1
-
-## 1️⃣ Introduction to Verilog RTL Design and Synthesis
-Verilog RTL (Register Transfer Level) design is the process of describing digital circuits at the level of **registers** and **combinational logic**. Synthesis translates the RTL code into a **gate-level netlist** for FPGA or ASIC implementation.
-
