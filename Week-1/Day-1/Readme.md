@@ -10,7 +10,7 @@ Verilog RTL (Register Transfer Level) design is the process of describing digita
 
 ---
 
-## 2️⃣ SKY130RTL D1SK1 L1: Introduction to Iverilog Design Testbench
+## 1.1 SKY130RTL D1SK1 L1: Introduction to Iverilog Design Testbench
 A **testbench** is a simulation environment used to **verify RTL functionality**.  
 **Iverilog** is an open-source Verilog simulator for compiling and running simulations.
 
@@ -37,14 +37,14 @@ A **testbench** is a simulation environment used to **verify RTL functionality**
 
 ---
 
-## 3️⃣ Simulation Flow
+## Simulation Flow
 The typical simulation flow in Verilog using Iverilog:
 
  <img width="1790" height="950" alt="Screenshot 2025-09-23 233511" src="https://github.com/user-attachments/assets/62fabdf0-de94-4e52-9dee-7f51ba67e88e" />
 
 ---
 
-## 4️⃣ Explanation of Each Step
+## Explanation of Each Step
 
 **1. Design**  
 - Your RTL Verilog code describing the circuit.  
