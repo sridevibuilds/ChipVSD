@@ -90,4 +90,4 @@ week-3/
 ---
 
 ## 👩‍💻 Contributor
-**Zuna (Sridevi Nimmala)** – Author / Developer
+**(Sridevi Nimmala)** – Author
